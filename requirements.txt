@@ -1,0 +1,27 @@
+# Core data handling
+pandas>=2.2
+numpy>=1.26
+
+# Validation & schema
+pydantic>=2.7
+
+# CLI + utilities
+typer>=0.12
+tqdm>=4.66
+rich>=13.7
+
+# Reliability
+tenacity>=8.3
+
+# Optional: plotting/analysis (bonus insights)
+matplotlib>=3.9
+
+# For LLM API (if using OpenAI – remove/change if you use another provider)
+openai>=1.42.0
+pydantic>=2.8.2
+langchain>=0.2.6
+langchain-openai>=0.1.8
+openai>=1.0.0
+pydantic>=2.8.0
+tqdm>=4.66.1
+google-generativeai

@@ -1,0 +1,42 @@
+{
+  "correctness": {
+    "baseline_mean": 3.667,
+    "baseline_std": 1.054,
+    "augmented_mean": 3.467,
+    "augmented_std": 1.222,
+    "delta_mean": -0.201,
+    "win_rate": 0.038
+  },
+  "completeness": {
+    "baseline_mean": 3.698,
+    "baseline_std": 1.0,
+    "augmented_mean": 3.524,
+    "augmented_std": 1.139,
+    "delta_mean": -0.174,
+    "win_rate": 0.036
+  },
+  "clarity": {
+    "baseline_mean": 3.723,
+    "baseline_std": 0.963,
+    "augmented_mean": 3.62,
+    "augmented_std": 1.007,
+    "delta_mean": -0.103,
+    "win_rate": 0.029
+  },
+  "conciseness": {
+    "baseline_mean": 3.606,
+    "baseline_std": 0.983,
+    "augmented_mean": 3.362,
+    "augmented_std": 1.053,
+    "delta_mean": -0.244,
+    "win_rate": 0.081
+  },
+  "overall": {
+    "baseline_mean": 3.654,
+    "baseline_std": 1.015,
+    "augmented_mean": 3.428,
+    "augmented_std": 1.165,
+    "delta_mean": -0.226,
+    "win_rate": 0.108
+  }
+}

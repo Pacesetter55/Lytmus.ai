@@ -1,0 +1,27 @@
+{
+  "correctness": {
+    "baseline_mean": 3.5,
+    "augmented_mean": 3.5,
+    "improvement": 0.0
+  },
+  "completeness": {
+    "baseline_mean": 3.5,
+    "augmented_mean": 3.5,
+    "improvement": 0.0
+  },
+  "clarity": {
+    "baseline_mean": 3.5,
+    "augmented_mean": 3.5,
+    "improvement": 0.0
+  },
+  "conciseness": {
+    "baseline_mean": 3.0,
+    "augmented_mean": 2.5,
+    "improvement": -0.5
+  },
+  "overall": {
+    "baseline_mean": 3.375,
+    "augmented_mean": 3.4,
+    "improvement": 0.025
+  }
+}
